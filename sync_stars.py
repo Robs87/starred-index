@@ -75,6 +75,7 @@ AUTO_RULES = [
         "md2wechat", "wechat article", "公众号", "排版",
         "wewrite", "paywall", "app-store",
         "headless browser", "browser automation",
+        "prompt manager", "chrome extension", "side-panel",
     ]),
     # 自托管 & NAS & 运维
     ("selfhost", [
