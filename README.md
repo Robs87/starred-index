@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub Starred Repos 分类索引
 
 
-> 自动同步 · 共 106 个仓库 · 最后更新：2026-06-03 00:36 UTC
+> 自动同步 · 共 106 个仓库 · 最后更新：2026-06-03 00:37 UTC
 
 
 ---
@@ -10,13 +10,13 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 376,291 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 203,929 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory,... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 177,343 | Python | The agent that grows with you |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 376,292 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 203,930 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory,... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 177,345 | Python | The agent that grows with you |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | 106,308 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 89,272 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 53,325 | Python | The best-benchmarked open-source AI memory system. And it's free. |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 36,703 | Rust | DeepSeek + MiMo coding agent in terminal |
+| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 36,704 | Rust | DeepSeek + MiMo coding agent in terminal |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 35,809 | Go | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an Op... |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 25,053 | Python | OpenViking is an open-source context database designed specifically for AI Ag... |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 20,633 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
@@ -42,16 +42,16 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 215,865 | Shell | An agentic skills framework & software development methodology that works. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 165,865 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 215,866 | Shell | An agentic skills framework & software development methodology that works. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 165,866 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 58,414 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, ... |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 34,825 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,246 | - | A community collection of OpenClaw use cases for making life easier. |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 26,221 | Python | Academic Research Skills for Claude Code: research → write → review → revise ... |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 26,222 | Python | Academic Research Skills for Claude Code: research → write → review → revise ... |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 22,393 | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 13,650 | Shell | 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖... |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 13,651 | Shell | 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖... |
 | [larksuite/cli](https://github.com/larksuite/cli) | 13,317 | Go | The official Lark/Feishu CLI tool, maintained by the larksuite team — built f... |
-| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 13,115 | Python | 数字生命卡兹克开源的 AI Skills 合集 |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 13,116 | Python | 数字生命卡兹克开源的 AI Skills 合集 |
 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 12,317 | C# | - |
 | [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 4,277 | - | 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,035 | - | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |
@@ -71,7 +71,7 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 141,107 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 141,109 | Python | Python tool for converting files and office documents to Markdown. |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 124,496 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 57,598 | TypeScript | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ... |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 30,757 | Zig | Lightpanda: the headless browser designed for AI and automation |
@@ -83,6 +83,7 @@
 | [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 1,740 | - | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill |
 | [hypooo/app-store-price](https://github.com/hypooo/app-store-price) | 742 | HTML | App Store 价格查询 - 查询应用在不同地区的价格和内购信息 |
 | [paywallpro/paywall-gallery](https://github.com/paywallpro/paywall-gallery) | 418 | - | Top iOS app subscription paywall and onboarding gallery with screenshots, vid... |
+| [joeseesun/Qiaomu-QuickPrompt](https://github.com/joeseesun/Qiaomu-QuickPrompt) | 51 | JavaScript | Chrome side-panel prompt manager with shortcut expansion and built-in Chinese... |
 
 ## 📝 Obsidian & 笔记生态
 
@@ -161,7 +162,6 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [joeseesun/Qiaomu-QuickPrompt](https://github.com/joeseesun/Qiaomu-QuickPrompt) | 51 | JavaScript | Chrome side-panel prompt manager with shortcut expansion and built-in Chinese... |
 | [Robs87/vue-project](https://github.com/Robs87/vue-project) | 1 | - | - |
 | [Robs87/Robs87](https://github.com/Robs87/Robs87) | 1 | - | Config files for my GitHub profile. |
 | [Robs87/mirror](https://github.com/Robs87/mirror) | 1 | - | - |

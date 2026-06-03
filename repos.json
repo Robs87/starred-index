@@ -213,7 +213,7 @@
     "category": "design"
   },
   "Imbad0202/academic-research-skills": {
-    "stars": 26221,
+    "stars": 26222,
     "lang": "Python",
     "license": "NOASSERTION",
     "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
@@ -240,7 +240,7 @@
     "category": "selfhost"
   },
   "Hmbown/CodeWhale": {
-    "stars": 36703,
+    "stars": 36704,
     "lang": "Rust",
     "license": "MIT",
     "desc": "DeepSeek + MiMo coding agent in terminal",
@@ -343,7 +343,7 @@
     "category": "api-proxy"
   },
   "jnMetaCode/agency-agents-zh": {
-    "stars": 13650,
+    "stars": 13651,
     "lang": "Shell",
     "license": "MIT",
     "desc": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
@@ -372,7 +372,7 @@
     "category": "agent-skills"
   },
   "multica-ai/andrej-karpathy-skills": {
-    "stars": 165865,
+    "stars": 165866,
     "lang": "-",
     "license": "-",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
@@ -585,7 +585,7 @@
     "category": "ai-agent"
   },
   "KKKKhazix/khazix-skills": {
-    "stars": 13115,
+    "stars": 13116,
     "lang": "Python",
     "license": "MIT",
     "desc": "数字生命卡兹克开源的 AI Skills 合集",
@@ -603,7 +603,7 @@
     "category": "agent-skills"
   },
   "microsoft/markitdown": {
-    "stars": 141107,
+    "stars": 141109,
     "lang": "Python",
     "license": "MIT",
     "desc": "Python tool for converting files and office documents to Markdown.",
@@ -686,7 +686,7 @@
     "category": "agent-skills"
   },
   "affaan-m/ECC": {
-    "stars": 203929,
+    "stars": 203930,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -713,7 +713,7 @@
     "category": "agent-skills"
   },
   "NousResearch/hermes-agent": {
-    "stars": 177343,
+    "stars": 177345,
     "lang": "Python",
     "license": "MIT",
     "desc": "The agent that grows with you",
@@ -739,7 +739,7 @@
     "category": "ai-agent"
   },
   "openclaw/openclaw": {
-    "stars": 376291,
+    "stars": 376292,
     "lang": "TypeScript",
     "license": "NOASSERTION",
     "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
@@ -944,7 +944,7 @@
     "category": "ai-agent"
   },
   "obra/superpowers": {
-    "stars": 215865,
+    "stars": 215866,
     "lang": "Shell",
     "license": "MIT",
     "desc": "An agentic skills framework & software development methodology that works.",
