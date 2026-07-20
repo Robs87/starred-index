@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub Starred Repos 分类索引
 
 
-> 自动同步 · 共 138 个仓库 · 最后更新：2026-07-20 17:24 UTC
+> 自动同步 · 共 138 个仓库 · 最后更新：2026-07-20 17:25 UTC
 
 
 ---
@@ -11,17 +11,17 @@
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231,491 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory,... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,660 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,662 | Python | The agent that grows with you |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | 123,167 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 119,271 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 91,124 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 91,125 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 85,465 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 57,508 | Python | The best-benchmarked open-source AI memory system. And it's free. |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 43,816 | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/... |
 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 39,958 | Rust | Open-source, community-driven agent harness |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 29,021 | TypeScript | Clone any website with one command using AI coding agents |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 27,014 | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge R... |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 26,673 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 26,674 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 18,611 | Python | Hindsight: Agent Memory That  Learns |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 10,292 | TypeScript | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-... |
 | [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 9,327 | TypeScript | Web dashboard for Hermes Agent — multi-platform AI chat, session management, ... |
@@ -39,7 +39,7 @@
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 33,109 | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 21,252 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ fre... |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 21,257 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ fre... |
 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 16,507 | TypeScript | OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B t... |
 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 6,384 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
 | [looplj/axonhub](https://github.com/looplj/axonhub) | 4,744 | Go | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover,... |
@@ -85,7 +85,7 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 167,613 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 167,614 | Python | Python tool for converting files and office documents to Markdown. |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 127,939 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 79,951 | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Y... |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 32,034 | Zig | Lightpanda: the headless browser designed for AI and automation |
@@ -129,7 +129,7 @@
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 153,465 | TypeScript | The API to search, scrape, and interact with the web at scale. 🔥 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 58,654 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 58,655 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | 38,685 | TypeScript | 🧡 Folo is the AI RSS Reader |
 | [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) | 5,926 | JavaScript | AI builders digest — monitors top AI builders on X and YouTube podcasts, remi... |
 | [kevinho/clawfeed](https://github.com/kevinho/clawfeed) | 2,322 | HTML | ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS ... |

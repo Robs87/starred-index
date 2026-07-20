@@ -574,7 +574,7 @@
     "category": "agent-skills"
   },
   "garrytan/gbrain": {
-    "stars": 26673,
+    "stars": 26674,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
@@ -611,7 +611,7 @@
     "category": "agent-skills"
   },
   "microsoft/markitdown": {
-    "stars": 167613,
+    "stars": 167614,
     "lang": "Python",
     "license": "MIT",
     "desc": "Python tool for converting files and office documents to Markdown.",
@@ -721,7 +721,7 @@
     "category": "agent-skills"
   },
   "NousResearch/hermes-agent": {
-    "stars": 217660,
+    "stars": 217662,
     "lang": "Python",
     "license": "MIT",
     "desc": "The agent that grows with you",
@@ -1735,7 +1735,7 @@
     "category": "selfhost"
   },
   "Panniantong/Agent-Reach": {
-    "stars": 58654,
+    "stars": 58655,
     "lang": "Python",
     "license": "MIT",
     "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -2048,7 +2048,7 @@
     "category": "ai-agent"
   },
   "diegosouzapw/OmniRoute": {
-    "stars": 21252,
+    "stars": 21257,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
@@ -2078,7 +2078,7 @@
     "category": "api-proxy"
   },
   "JuliusBrussee/caveman": {
-    "stars": 91124,
+    "stars": 91125,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
