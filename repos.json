@@ -18,7 +18,7 @@
     "category": "finance"
   },
   "helloianneo/ian-xiaohei-illustrations": {
-    "stars": 10118,
+    "stars": 10150,
     "lang": "-",
     "license": "MIT",
     "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
@@ -35,7 +35,7 @@
     "category": "design"
   },
   "paywallpro/paywall-gallery": {
-    "stars": 651,
+    "stars": 653,
     "lang": "-",
     "license": "NOASSERTION",
     "desc": "Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals.",
@@ -60,7 +60,7 @@
     "category": "design"
   },
   "helloxz/onenav": {
-    "stars": 3129,
+    "stars": 3128,
     "lang": "JavaScript",
     "license": "Apache-2.0",
     "desc": "使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。",
@@ -73,7 +73,7 @@
     "category": "obsidian"
   },
   "excalidraw/excalidraw": {
-    "stars": 130399,
+    "stars": 130484,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
@@ -90,7 +90,7 @@
     "category": "design"
   },
   "TNT-Likely/BeeCount-Cloud": {
-    "stars": 117,
+    "stars": 119,
     "lang": "TypeScript",
     "license": "NOASSERTION",
     "desc": "Self-hosted cloud for BeeCount — one Docker image runs the sync server + web app · multi-device realtime sync · shared ledgers | 蜜蜂记账自建云:一个 Docker 镜像跑齐同步服务与 Web 端 · 多端实时同步 · 共享账本",
@@ -118,7 +118,7 @@
     "category": "finance"
   },
   "TNT-Likely/BeeCount": {
-    "stars": 2168,
+    "stars": 2180,
     "lang": "Dart",
     "license": "NOASSERTION",
     "desc": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
@@ -145,7 +145,7 @@
     "category": "finance"
   },
   "op7418/guizang-ppt-skill": {
-    "stars": 24764,
+    "stars": 24860,
     "lang": "HTML",
     "license": "AGPL-3.0",
     "desc": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
@@ -166,7 +166,7 @@
     "category": "design"
   },
   "lewislulu/html-ppt-skill": {
-    "stars": 8040,
+    "stars": 8058,
     "lang": "HTML",
     "license": "MIT",
     "desc": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
@@ -175,7 +175,7 @@
     "category": "design"
   },
   "nexu-io/open-design": {
-    "stars": 91018,
+    "stars": 91400,
     "lang": "TypeScript",
     "license": "Apache-2.0",
     "desc": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
@@ -205,7 +205,7 @@
     "category": "design"
   },
   "nexu-io/html-anything": {
-    "stars": 8445,
+    "stars": 8454,
     "lang": "HTML",
     "license": "Apache-2.0",
     "desc": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
@@ -235,7 +235,7 @@
     "category": "design"
   },
   "Imbad0202/academic-research-skills": {
-    "stars": 43557,
+    "stars": 43671,
     "lang": "Python",
     "license": "NOASSERTION",
     "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
@@ -253,7 +253,7 @@
     "category": "agent-skills"
   },
   "wg-easy/wg-easy": {
-    "stars": 26740,
+    "stars": 26750,
     "lang": "TypeScript",
     "license": "AGPL-3.0",
     "desc": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
@@ -262,7 +262,7 @@
     "category": "selfhost"
   },
   "Hmbown/CodeWhale": {
-    "stars": 40837,
+    "stars": 40842,
     "lang": "Rust",
     "license": "MIT",
     "desc": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
@@ -283,7 +283,7 @@
     "category": "ai-agent"
   },
   "Willxup/cpa-usage-keeper": {
-    "stars": 1088,
+    "stars": 1091,
     "lang": "Go",
     "license": "MIT",
     "desc": "Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.",
@@ -304,7 +304,7 @@
     "category": "api-proxy"
   },
   "ka-pi-ba-la/AIbijia": {
-    "stars": 1599,
+    "stars": 1605,
     "lang": "-",
     "license": "MIT",
     "desc": "分享便宜靠谱Token，抹平信息差",
@@ -313,7 +313,7 @@
     "category": "api-proxy"
   },
   "router-for-me/Cli-Proxy-API-Management-Center": {
-    "stars": 3972,
+    "stars": 3982,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.",
@@ -322,7 +322,7 @@
     "category": "api-proxy"
   },
   "router-for-me/CLIProxyAPI": {
-    "stars": 48591,
+    "stars": 48734,
     "lang": "Go",
     "license": "MIT",
     "desc": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API",
@@ -338,7 +338,7 @@
     "category": "ai-agent"
   },
   "looplj/axonhub": {
-    "stars": 5066,
+    "stars": 5071,
     "lang": "Go",
     "license": "NOASSERTION",
     "desc": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
@@ -363,7 +363,7 @@
     "category": "api-proxy"
   },
   "Wei-Shaw/sub2api": {
-    "stars": 39189,
+    "stars": 39347,
     "lang": "Go",
     "license": "LGPL-3.0",
     "desc": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
@@ -382,7 +382,7 @@
     "category": "api-proxy"
   },
   "jnMetaCode/agency-agents-zh": {
-    "stars": 19867,
+    "stars": 19907,
     "lang": "Shell",
     "license": "MIT",
     "desc": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
@@ -411,7 +411,7 @@
     "category": "agent-skills"
   },
   "multica-ai/andrej-karpathy-skills": {
-    "stars": 206284,
+    "stars": 207024,
     "lang": "-",
     "license": "-",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
@@ -420,7 +420,7 @@
     "category": "agent-skills"
   },
   "SamurAIGPT/llm-wiki-agent": {
-    "stars": 3442,
+    "stars": 3453,
     "lang": "Python",
     "license": "MIT",
     "desc": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
@@ -450,7 +450,7 @@
     "category": "agent-skills"
   },
   "ZreadAI/zread-skill": {
-    "stars": 163,
+    "stars": 164,
     "lang": "-",
     "license": "-",
     "desc": "Zread Skill",
@@ -459,7 +459,7 @@
     "category": "agent-skills"
   },
   "TapXWorld/ChinaTextbook": {
-    "stars": 80714,
+    "stars": 80798,
     "lang": "Roff",
     "license": "-",
     "desc": "所有小初高、大学PDF教材。",
@@ -486,7 +486,7 @@
     "category": "finance"
   },
   "tw93/Mole": {
-    "stars": 64769,
+    "stars": 64912,
     "lang": "Shell",
     "license": "GPL-3.0",
     "desc": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
@@ -514,7 +514,7 @@
     "category": "selfhost"
   },
   "alchaincyf/darwin-skill": {
-    "stars": 5715,
+    "stars": 5735,
     "lang": "HTML",
     "license": "MIT",
     "desc": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
@@ -523,7 +523,7 @@
     "category": "agent-skills"
   },
   "MemPalace/mempalace": {
-    "stars": 58593,
+    "stars": 58626,
     "lang": "Python",
     "license": "MIT",
     "desc": "The best-benchmarked open-source AI memory system. And it's free.",
@@ -564,7 +564,7 @@
     "category": "agent-skills"
   },
   "alchaincyf/nuwa-skill": {
-    "stars": 31287,
+    "stars": 31356,
     "lang": "Python",
     "license": "MIT",
     "desc": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
@@ -573,7 +573,7 @@
     "category": "agent-skills"
   },
   "labarba/sciwrite": {
-    "stars": 804,
+    "stars": 807,
     "lang": "-",
     "license": "NOASSERTION",
     "desc": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
@@ -582,7 +582,7 @@
     "category": "agent-skills"
   },
   "garrytan/gbrain": {
-    "stars": 29016,
+    "stars": 29069,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
@@ -591,7 +591,7 @@
     "category": "ai-agent"
   },
   "KKKKhazix/khazix-skills": {
-    "stars": 20017,
+    "stars": 20061,
     "lang": "Python",
     "license": "MIT",
     "desc": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
@@ -610,7 +610,7 @@
     "category": "agent-skills"
   },
   "alchaincyf/hermes-agent-orange-book": {
-    "stars": 4871,
+    "stars": 4877,
     "lang": "Python",
     "license": "NOASSERTION",
     "desc": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
@@ -619,7 +619,7 @@
     "category": "agent-skills"
   },
   "microsoft/markitdown": {
-    "stars": 175962,
+    "stars": 176191,
     "lang": "Python",
     "license": "MIT",
     "desc": "Python tool for converting files and office documents to Markdown.",
@@ -636,7 +636,7 @@
     "category": "design"
   },
   "mnaoumov/obsidian-custom-attachment-location": {
-    "stars": 150,
+    "stars": 151,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Customize attachment location with variables($filename, $data, etc) like Typora.",
@@ -658,7 +658,7 @@
     "category": "design"
   },
   "haierkeys/obsidian-fast-note-sync": {
-    "stars": 2863,
+    "stars": 2869,
     "lang": "JavaScript",
     "license": "Apache-2.0",
     "desc": "Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization plugin with real-time sync across multiple platforms, supporting Mac, Windows, Android, iOS, and offering multilingual support.可私有化部署，专注为 Obsidian 用户提供无打扰、丝般顺滑、多端实时同步的多平台笔记同步插件。",
@@ -671,7 +671,7 @@
     "category": "obsidian"
   },
   "haierkeys/fast-note-sync-service": {
-    "stars": 2151,
+    "stars": 2154,
     "lang": "Go",
     "license": "Apache-2.0",
     "desc": "High-performance, low-latency note synchronization, online management, and remote REST API service platform.",
@@ -680,7 +680,7 @@
     "category": "obsidian"
   },
   "Go1c/FastNodeSync-CLI": {
-    "stars": 33,
+    "stars": 34,
     "lang": "Python",
     "license": "-",
     "desc": "CLI client for Fast Note Sync Service - sync Obsidian vaults from headless servers",
@@ -689,7 +689,7 @@
     "category": "obsidian"
   },
   "luongnv89/claude-howto": {
-    "stars": 41178,
+    "stars": 41192,
     "lang": "Python",
     "license": "MIT",
     "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
@@ -702,7 +702,7 @@
     "category": "agent-skills"
   },
   "affaan-m/ECC": {
-    "stars": 242831,
+    "stars": 243102,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -729,7 +729,7 @@
     "category": "agent-skills"
   },
   "NousResearch/hermes-agent": {
-    "stars": 235579,
+    "stars": 236292,
     "lang": "Python",
     "license": "MIT",
     "desc": "The agent that grows with you",
@@ -752,7 +752,7 @@
     "category": "ai-agent"
   },
   "larksuite/cli": {
-    "stars": 16708,
+    "stars": 16742,
     "lang": "Go",
     "license": "MIT",
     "desc": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
@@ -761,7 +761,7 @@
     "category": "agent-skills"
   },
   "farion1231/cc-switch": {
-    "stars": 129159,
+    "stars": 129343,
     "lang": "Rust",
     "license": "MIT",
     "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
@@ -820,7 +820,7 @@
     "category": "ai-agent"
   },
   "lightpanda-io/browser": {
-    "stars": 34221,
+    "stars": 34240,
     "lang": "Zig",
     "license": "AGPL-3.0",
     "desc": "Lightpanda: the headless browser designed for AI and automation",
@@ -838,7 +838,7 @@
     "category": "design"
   },
   "geekjourneyx/md2wechat-skill": {
-    "stars": 3585,
+    "stars": 3586,
     "lang": "Go",
     "license": "NOASSERTION",
     "desc": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理",
@@ -868,7 +868,7 @@
     "category": "design"
   },
   "MiniMax-AI/skills": {
-    "stars": 13433,
+    "stars": 13449,
     "lang": "C#",
     "license": "MIT",
     "desc": "-",
@@ -877,7 +877,7 @@
     "category": "agent-skills"
   },
   "zarazhangrui/follow-builders": {
-    "stars": 6379,
+    "stars": 6387,
     "lang": "JavaScript",
     "license": "-",
     "desc": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
@@ -886,7 +886,7 @@
     "category": "rss"
   },
   "volcengine/OpenViking": {
-    "stars": 32876,
+    "stars": 33214,
     "lang": "Python",
     "license": "AGPL-3.0",
     "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -902,7 +902,7 @@
     "category": "ai-agent"
   },
   "mem9-ai/mem9": {
-    "stars": 1198,
+    "stars": 1199,
     "lang": "TypeScript",
     "license": "Apache-2.0",
     "desc": "Unlimited memory for OpenClaw",
@@ -913,7 +913,7 @@
     "category": "ai-agent"
   },
   "obra/superpowers": {
-    "stars": 276975,
+    "stars": 277429,
     "lang": "Shell",
     "license": "MIT",
     "desc": "An agentic skills framework & software development methodology that works.",
@@ -931,7 +931,7 @@
     "category": "agent-skills"
   },
   "kevinho/clawfeed": {
-    "stars": 2376,
+    "stars": 2377,
     "lang": "HTML",
     "license": "MIT",
     "desc": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
@@ -940,7 +940,7 @@
     "category": "rss"
   },
   "zylos-ai/zylos-core": {
-    "stars": 1149,
+    "stars": 1150,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "🐙 Give your AI a life — open-source agent infrastructure for team collaboration.",
@@ -956,7 +956,7 @@
     "category": "ai-agent"
   },
   "garrytan/gstack": {
-    "stars": 129435,
+    "stars": 129592,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
@@ -965,7 +965,7 @@
     "category": "ai-agent"
   },
   "MemTensor/MemOS": {
-    "stars": 10951,
+    "stars": 10974,
     "lang": "TypeScript",
     "license": "Apache-2.0",
     "desc": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
@@ -995,7 +995,7 @@
     "category": "ai-agent"
   },
   "kepano/obsidian-skills": {
-    "stars": 47176,
+    "stars": 47239,
     "lang": "-",
     "license": "MIT",
     "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
@@ -1021,7 +1021,7 @@
     "category": "obsidian"
   },
   "cafe3310/public-agent-skills": {
-    "stars": 251,
+    "stars": 252,
     "lang": "JavaScript",
     "license": "Apache-2.0",
     "desc": "personal agent skills for better QoL",
@@ -1034,7 +1034,7 @@
     "category": "agent-skills"
   },
   "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
-    "stars": 29369,
+    "stars": 29395,
     "lang": "-",
     "license": "NOASSERTION",
     "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
@@ -1049,7 +1049,7 @@
     "category": "selfhost"
   },
   "BruceLanLan/bruceblue-ghostty-config": {
-    "stars": 445,
+    "stars": 446,
     "lang": "Makefile",
     "license": "-",
     "desc": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）",
@@ -1058,7 +1058,7 @@
     "category": "selfhost"
   },
   "axtonliu/axton-obsidian-visual-skills": {
-    "stars": 3442,
+    "stars": 3511,
     "lang": "-",
     "license": "MIT",
     "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
@@ -1136,7 +1136,7 @@
     "category": "agent-skills"
   },
   "andysingal/llm-course": {
-    "stars": 885,
+    "stars": 884,
     "lang": "Jupyter Notebook",
     "license": "MIT",
     "desc": "-",
@@ -1172,7 +1172,7 @@
     "category": "agent-skills"
   },
   "OpenBB-finance/OpenBB": {
-    "stars": 72237,
+    "stars": 72268,
     "lang": "Python",
     "license": "NOASSERTION",
     "desc": "Open Data Platform for analysts, quants and AI agents.",
@@ -1195,7 +1195,7 @@
     "category": "finance"
   },
   "firecrawl/firecrawl": {
-    "stars": 171699,
+    "stars": 172201,
     "lang": "TypeScript",
     "license": "AGPL-3.0",
     "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1224,7 +1224,7 @@
     "category": "rss"
   },
   "heyitsnoah/claudesidian": {
-    "stars": 2572,
+    "stars": 2573,
     "lang": "Python",
     "license": "MIT",
     "desc": "-",
@@ -1233,7 +1233,7 @@
     "category": "obsidian"
   },
   "fish2018/pansou": {
-    "stars": 14345,
+    "stars": 14351,
     "lang": "Go",
     "license": "MIT",
     "desc": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
@@ -1269,7 +1269,7 @@
     "category": "selfhost"
   },
   "RSSNext/Folo": {
-    "stars": 38853,
+    "stars": 38858,
     "lang": "TypeScript",
     "license": "AGPL-3.0",
     "desc": "🧡 Folo is the AI RSS Reader",
@@ -1284,7 +1284,7 @@
     "category": "rss"
   },
   "immich-app/immich": {
-    "stars": 112547,
+    "stars": 112633,
     "lang": "TypeScript",
     "license": "AGPL-3.0",
     "desc": "High performance self-hosted photo and video management solution.",
@@ -1310,7 +1310,7 @@
     "category": "selfhost"
   },
   "cmliu/CF-Workers-docker.io": {
-    "stars": 9230,
+    "stars": 9229,
     "lang": "JavaScript",
     "license": "-",
     "desc": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
@@ -1369,7 +1369,7 @@
     "category": "notion"
   },
   "jxxghp/MoviePilot": {
-    "stars": 11621,
+    "stars": 11627,
     "lang": "Python",
     "license": "GPL-3.0",
     "desc": "NAS媒体库自动化管理工具",
@@ -1378,7 +1378,7 @@
     "category": "selfhost"
   },
   "gdy666/lucky": {
-    "stars": 8078,
+    "stars": 8081,
     "lang": "Go",
     "license": "MIT",
     "desc": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
@@ -1472,7 +1472,7 @@
     "category": "notion"
   },
   "csfive/CS50x": {
-    "stars": 593,
+    "stars": 594,
     "lang": "HTML",
     "license": "-",
     "desc": "🦍 Harvard CS50x Solutions",
@@ -1516,7 +1516,7 @@
     "category": "learn"
   },
   "mengxi-ream/read-frog": {
-    "stars": 9334,
+    "stars": 9337,
     "lang": "TypeScript",
     "license": "GPL-3.0",
     "desc": "🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译",
@@ -1559,7 +1559,7 @@
     "category": "uncategorized"
   },
   "deezertidal/shadowrocket-rules": {
-    "stars": 6644,
+    "stars": 6645,
     "lang": "JavaScript",
     "license": "-",
     "desc": "小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁",
@@ -1568,16 +1568,16 @@
     "category": "selfhost"
   },
   "tashfeenahmed/freellmapi": {
-    "stars": 19673,
+    "stars": 20169,
     "lang": "TypeScript",
     "license": "MIT",
-    "desc": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
     "url": "https://github.com/tashfeenahmed/freellmapi",
     "topics": [],
     "category": "api-proxy"
   },
   "OpenCut-app/OpenCut": {
-    "stars": 85652,
+    "stars": 85739,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "The open-source CapCut alternative",
@@ -1590,7 +1590,7 @@
     "category": "uncategorized"
   },
   "jbiaojerry/ebook-treasure-chest": {
-    "stars": 16451,
+    "stars": 16494,
     "lang": "Python",
     "license": "-",
     "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
@@ -1599,7 +1599,7 @@
     "category": "uncategorized"
   },
   "muxuuu/serenity-skill": {
-    "stars": 3830,
+    "stars": 3833,
     "lang": "Python",
     "license": "MIT",
     "desc": "Serenity-inspired Agent Skill for supply-chain bottleneck stock research",
@@ -1616,7 +1616,7 @@
     "category": "agent-skills"
   },
   "TauricResearch/TradingAgents": {
-    "stars": 99689,
+    "stars": 100001,
     "lang": "Python",
     "license": "Apache-2.0",
     "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
@@ -1631,7 +1631,7 @@
     "category": "finance"
   },
   "wbh604/UZI-Skill": {
-    "stars": 6551,
+    "stars": 6576,
     "lang": "Python",
     "license": "MIT",
     "desc": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
@@ -1649,7 +1649,7 @@
     "category": "agent-skills"
   },
   "opensquilla/opensquilla": {
-    "stars": 6657,
+    "stars": 6665,
     "lang": "Python",
     "license": "Apache-2.0",
     "desc": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
@@ -1670,7 +1670,7 @@
     "category": "ai-agent"
   },
   "juewuy/ShellCrash": {
-    "stars": 13207,
+    "stars": 13212,
     "lang": "Shell",
     "license": "GPL-3.0",
     "desc": "Run sing-box/mihomo as client in shell",
@@ -1679,7 +1679,7 @@
     "category": "uncategorized"
   },
   "wttwins/wrong-notebook": {
-    "stars": 681,
+    "stars": 682,
     "lang": "TypeScript",
     "license": "-",
     "desc": "一个基于AI的学生错题本",
@@ -1702,7 +1702,7 @@
     "category": "selfhost"
   },
   "LOWERTOP/Shadowrocket": {
-    "stars": 4401,
+    "stars": 4404,
     "lang": "-",
     "license": "-",
     "desc": "Shadowrocket 使用手册 补完计划",
@@ -1713,7 +1713,7 @@
     "category": "selfhost"
   },
   "LOWERTOP/Shadowrocket-First": {
-    "stars": 4984,
+    "stars": 4988,
     "lang": "-",
     "license": "-",
     "desc": "小火箭配色与配置",
@@ -1732,7 +1732,7 @@
     "category": "selfhost"
   },
   "Panniantong/Agent-Reach": {
-    "stars": 74742,
+    "stars": 75173,
     "lang": "Python",
     "license": "MIT",
     "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -1773,7 +1773,7 @@
     "category": "ai-agent"
   },
   "2dust/v2rayN": {
-    "stars": 114571,
+    "stars": 114650,
     "lang": "C#",
     "license": "GPL-3.0",
     "desc": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
@@ -1794,7 +1794,7 @@
     "category": "uncategorized"
   },
   "EKKOLearnAI/hermes-studio": {
-    "stars": 10561,
+    "stars": 10595,
     "lang": "TypeScript",
     "license": "NOASSERTION",
     "desc": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
@@ -1818,7 +1818,7 @@
     "category": "ai-agent"
   },
   "teslamate-org/teslamate": {
-    "stars": 8909,
+    "stars": 8912,
     "lang": "Elixir",
     "license": "AGPL-3.0",
     "desc": "A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]",
@@ -1845,7 +1845,7 @@
     "category": "uncategorized"
   },
   "Thysrael/Horizon": {
-    "stars": 9015,
+    "stars": 9020,
     "lang": "Python",
     "license": "MIT",
     "desc": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
@@ -1884,7 +1884,7 @@
     "category": "agent-skills"
   },
   "JCodesMore/ai-website-cloner-template": {
-    "stars": 33004,
+    "stars": 33090,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "Clone any website with one command using AI coding agents",
@@ -1913,7 +1913,7 @@
     "category": "ai-agent"
   },
   "byoungd/up": {
-    "stars": 61305,
+    "stars": 61486,
     "lang": "JavaScript",
     "license": "NOASSERTION",
     "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
@@ -1926,7 +1926,7 @@
     "category": "learn"
   },
   "mattpocock/skills": {
-    "stars": 235048,
+    "stars": 236402,
     "lang": "Shell",
     "license": "MIT",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -1935,7 +1935,7 @@
     "category": "uncategorized"
   },
   "Graphify-Labs/graphify": {
-    "stars": 110054,
+    "stars": 110375,
     "lang": "Python",
     "license": "Apache-2.0",
     "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
@@ -1982,7 +1982,7 @@
     "category": "uncategorized"
   },
   "mvanhorn/last30days-skill": {
-    "stars": 59174,
+    "stars": 59238,
     "lang": "Python",
     "license": "MIT",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
@@ -2012,7 +2012,7 @@
     "category": "agent-skills"
   },
   "virgiliojr94/book-to-skill": {
-    "stars": 25127,
+    "stars": 25466,
     "lang": "Python",
     "license": "MIT",
     "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
@@ -2035,7 +2035,7 @@
     "category": "ai-agent"
   },
   "infiniflow/ragflow": {
-    "stars": 89153,
+    "stars": 89227,
     "lang": "Go",
     "license": "Apache-2.0",
     "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
@@ -2059,7 +2059,7 @@
     "category": "ai-agent"
   },
   "diegosouzapw/OmniRoute": {
-    "stars": 54298,
+    "stars": 54925,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
@@ -2089,7 +2089,7 @@
     "category": "api-proxy"
   },
   "JuliusBrussee/caveman": {
-    "stars": 100656,
+    "stars": 100877,
     "lang": "Go",
     "license": "NOASSERTION",
     "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -2109,7 +2109,7 @@
     "category": "ai-agent"
   },
   "imraywang/wewrite": {
-    "stars": 3167,
+    "stars": 3174,
     "lang": "Python",
     "license": "MIT",
     "desc": "公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道",
@@ -2118,7 +2118,7 @@
     "category": "design"
   },
   "hasaneyldrm/exercises-dataset": {
-    "stars": 20768,
+    "stars": 20862,
     "lang": "HTML",
     "license": "NOASSERTION",
     "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
@@ -2138,7 +2138,7 @@
     "category": "uncategorized"
   },
   "chenyme/grok2api": {
-    "stars": 7526,
+    "stars": 7534,
     "lang": "Go",
     "license": "MIT",
     "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
@@ -2154,7 +2154,7 @@
     "category": "api-proxy"
   },
   "vectorize-io/hindsight": {
-    "stars": 21025,
+    "stars": 21100,
     "lang": "Python",
     "license": "MIT",
     "desc": "Hindsight: Agent Memory That  Learns",
@@ -2168,7 +2168,7 @@
     "category": "ai-agent"
   },
   "OpenByteInc/QuantDinger": {
-    "stars": 11043,
+    "stars": 11080,
     "lang": "Python",
     "license": "Apache-2.0",
     "desc": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
@@ -2198,7 +2198,7 @@
     "category": "finance"
   },
   "oblien/openship": {
-    "stars": 11637,
+    "stars": 11675,
     "lang": "TypeScript",
     "license": "Apache-2.0",
     "desc": "Self-hosted deployment platform",
@@ -2212,7 +2212,7 @@
     "category": "uncategorized"
   },
   "OthmanAdi/planning-with-files": {
-    "stars": 26336,
+    "stars": 26355,
     "lang": "Shell",
     "license": "MIT",
     "desc": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
@@ -2242,7 +2242,7 @@
     "category": "agent-skills"
   },
   "permissionlesstech/bitchat": {
-    "stars": 35862,
+    "stars": 35902,
     "lang": "Swift",
     "license": "Unlicense",
     "desc": "bluetooth mesh chat, IRC vibes",
@@ -2262,7 +2262,7 @@
     "category": "uncategorized"
   },
   "earendil-works/pi": {
-    "stars": 96504,
+    "stars": 97140,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
@@ -2271,7 +2271,7 @@
     "category": "ai-agent"
   },
   "HKUDS/DeepTutor": {
-    "stars": 37381,
+    "stars": 37476,
     "lang": "Python",
     "license": "Apache-2.0",
     "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
@@ -2290,7 +2290,7 @@
     "category": "agent-skills"
   },
   "agegr/pi-web": {
-    "stars": 5161,
+    "stars": 5233,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "Web UI for the pi coding agent",
@@ -2299,7 +2299,7 @@
     "category": "ai-agent"
   },
   "can1357/oh-my-pi": {
-    "stars": 27087,
+    "stars": 27378,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "⌥ Coding agent with the IDE wired in",
@@ -2333,7 +2333,7 @@
     "category": "uncategorized"
   },
   "liketrek/TREK": {
-    "stars": 12674,
+    "stars": 12732,
     "lang": "TypeScript",
     "license": "AGPL-3.0",
     "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
@@ -2362,7 +2362,7 @@
     "category": "uncategorized"
   },
   "YTwsy/OpenSurge-for-Mac": {
-    "stars": 2269,
+    "stars": 2275,
     "lang": "Go",
     "license": "GPL-3.0",
     "desc": "Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.",
@@ -2388,7 +2388,7 @@
     "category": "uncategorized"
   },
   "alielsokary/CaskHub": {
-    "stars": 871,
+    "stars": 879,
     "lang": "Swift",
     "license": "MIT",
     "desc": "Native GUI for Homebrew Casks",
@@ -2404,7 +2404,7 @@
     "category": "uncategorized"
   },
   "daimon3332/address": {
-    "stars": 1129,
+    "stars": 1146,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual output, IP-nearby generation, map previews, and API access. 基于真实开放数据的自托管地址与合成测试资料生成器，覆盖 27 个国家和地区，支持多语言地址、IP 附近生成、地图预览与 API 调用",
@@ -2419,7 +2419,7 @@
     "category": "uncategorized"
   },
   "fxyadela/write-then-publish": {
-    "stars": 207,
+    "stars": 211,
     "lang": "JavaScript",
     "license": "NOASSERTION",
     "desc": "本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。",
@@ -2437,7 +2437,7 @@
     "category": "obsidian"
   },
   "msitarzewski/agency-agents": {
-    "stars": 147776,
+    "stars": 147975,
     "lang": "Shell",
     "license": "MIT",
     "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -2446,7 +2446,7 @@
     "category": "agent-skills"
   },
   "firecrawl/anydoc": {
-    "stars": 18239,
+    "stars": 18424,
     "lang": "Rust",
     "license": "MIT",
     "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -2455,7 +2455,7 @@
     "category": "rss"
   },
   "deepseek-ai/deepseek-harness": {
-    "stars": 191343,
+    "stars": 194802,
     "lang": "TypeScript",
     "license": "MIT",
     "desc": "DeepSeek Harness: Everything is a Plugin.",
@@ -2469,7 +2469,7 @@
     "category": "ai-agent"
   },
   "Tianyu199509/DeskBox": {
-    "stars": 1007,
+    "stars": 1076,
     "lang": "C#",
     "license": "GPL-3.0",
     "desc": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
@@ -2498,7 +2498,7 @@
     "category": "uncategorized"
   },
   "xmanrui/dsh-im": {
-    "stars": 763,
+    "stars": 845,
     "lang": "JavaScript",
     "license": "MIT",
     "desc": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
