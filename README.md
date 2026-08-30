@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub Starred Repos 分类索引
 
 
-> 自动同步 · 共 157 个仓库 · 最后更新：2026-08-29 18:59 UTC
+> 自动同步 · 共 157 个仓库 · 最后更新：2026-08-30 18:55 UTC
 
 
 ---
@@ -10,78 +10,78 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 244,137 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory,... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 238,061 | Python | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 203,239 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 130,326 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 130,080 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 101,741 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 99,047 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 89,589 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 58,725 | Python | The best-benchmarked open-source AI memory system. And it's free. |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 49,213 | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/... |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 40,862 | Rust | Open-source coding agent for your terminal, built in Rust and on a journey of... |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 34,267 | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge R... |
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 33,348 | JavaScript | Clone any website with one command using AI coding agents |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 29,285 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 28,268 | TypeScript | ⌥ Coding agent with the IDE wired in |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 26,990 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, refere... |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 21,656 | Python | Hindsight: Agent Memory That  Learns |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 11,078 | TypeScript | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-... |
-| [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 10,676 | TypeScript | Web dashboard for Hermes Agent — multi-platform AI chat, session management, ... |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,380 | TypeScript | 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译 |
-| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 9,095 | Python | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chin... |
-| [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 6,772 | Python | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence ... |
-| [agegr/pi-web](https://github.com/agegr/pi-web) | 5,575 | TypeScript | Web UI for the pi coding agent |
-| [nexu-io/nexu](https://github.com/nexu-io/nexu) | 3,259 | TypeScript | The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Fei... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 244,601 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory,... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 238,440 | Python | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 204,554 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 130,446 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 130,207 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 101,857 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 99,366 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 89,659 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 58,742 | Python | The best-benchmarked open-source AI memory system. And it's free. |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 49,424 | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/... |
+| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 40,869 | Rust | Open-source coding agent for your terminal, built in Rust and on a journey of... |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 34,459 | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge R... |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 33,426 | JavaScript | Clone any website with one command using AI coding agents |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 29,321 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 28,459 | TypeScript | ⌥ Coding agent with the IDE wired in |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 27,271 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, refere... |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 21,867 | Python | Hindsight: Agent Memory That  Learns |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 11,092 | TypeScript | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-... |
+| [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 10,702 | TypeScript | Web dashboard for Hermes Agent — multi-platform AI chat, session management, ... |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,386 | TypeScript | 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译 |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 9,127 | Python | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chin... |
+| [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 6,792 | Python | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence ... |
+| [agegr/pi-web](https://github.com/agegr/pi-web) | 5,622 | TypeScript | Web UI for the pi coding agent |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | 3,260 | TypeScript | The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Fei... |
 | [mem9-ai/mem9](https://github.com/mem9-ai/mem9) | 1,202 | TypeScript | Unlimited memory for OpenClaw |
 | [zylos-ai/zylos-core](https://github.com/zylos-ai/zylos-core) | 1,151 | JavaScript | 🐙 Give your AI a life — open-source agent infrastructure for team collaboration. |
-| [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 982 | JavaScript | 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和... |
-| [coderzc/open-xiaoai-bridge](https://github.com/coderzc/open-xiaoai-bridge) | 343 | Python | 小爱音箱与外部 AI 服务（OpenClaw、小智 AI 等）的桥接器 |
+| [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 1,004 | JavaScript | 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和... |
+| [coderzc/open-xiaoai-bridge](https://github.com/coderzc/open-xiaoai-bridge) | 344 | Python | 小爱音箱与外部 AI 服务（OpenClaw、小智 AI 等）的桥接器 |
 
 ## 🔌 API 中转 & LLM 工具链
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 57,994 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free... |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 39,811 | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 22,154 | TypeScript | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints... |
-| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7,552 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
-| [looplj/axonhub](https://github.com/looplj/axonhub) | 5,123 | Go | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover,... |
-| [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) | 4,019 | TypeScript | This is a WebUI interface based on CLI-Proxy-API, designed to simplify config... |
-| [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) | 1,702 | TypeScript | OpenAI-compatible proxy for ChatGPT Codex Responses API |
-| [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia) | 1,624 | - | 分享便宜靠谱Token，抹平信息差 |
-| [Willxup/cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) | 1,103 | Go | Standalone CliProxyAPI usage tracker with SQLite persistence and built-in das... |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 58,519 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free... |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 39,899 | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 22,631 | TypeScript | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints... |
+| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7,564 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| [looplj/axonhub](https://github.com/looplj/axonhub) | 5,126 | Go | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover,... |
+| [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) | 4,027 | TypeScript | This is a WebUI interface based on CLI-Proxy-API, designed to simplify config... |
+| [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) | 1,704 | TypeScript | OpenAI-compatible proxy for ChatGPT Codex Responses API |
+| [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia) | 1,625 | - | 分享便宜靠谱Token，抹平信息差 |
+| [Willxup/cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) | 1,107 | Go | Standalone CliProxyAPI usage tracker with SQLite persistence and built-in das... |
 
 ## 📚 Agent Skills 合集 & 教程
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 279,330 | Shell | An agentic skills framework & software development methodology that works. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 208,624 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 148,816 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 112,236 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60,169 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44,169 | Python | Academic Research Skills for Claude Code: research → write → review → revise ... |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 41,261 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 37,844 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,669 | - | A community collection of OpenClaw use cases for making life easier. |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 31,666 | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
-| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 26,414 | Shell | Persistent file-based planning for AI coding agents and long-running tasks. C... |
-| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 20,248 | Python | 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-ana... |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,078 | Shell | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖... |
-| [larksuite/cli](https://github.com/larksuite/cli) | 16,845 | Go | The official Lark/飞书 CLI tool, maintained by the larksuite team — built for h... |
-| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,471 | C# | - |
-| [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) | 5,803 | HTML | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonom... |
-| [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,887 | Python | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |
-| [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 4,434 | - | 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  |
-| [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) | 3,920 | Python | Serenity-inspired Agent Skill for supply-chain bottleneck stock research |
-| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3,470 | Python | A personal knowledge base that builds and maintains itself. Drop in sources —... |
-| [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) | 2,857 | Shell | This guide is designed for OpenClaw itself (Agent-facing), not as a tradition... |
-| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,367 | - | AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 279,634 | Shell | An agentic skills framework & software development methodology that works. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 208,862 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 149,011 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 112,574 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60,428 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44,253 | Python | Academic Research Skills for Claude Code: research → write → review → revise ... |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 41,274 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 37,903 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 31,726 | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,666 | - | A community collection of OpenClaw use cases for making life easier. |
+| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 26,435 | Shell | Persistent file-based planning for AI coding agents and long-running tasks. C... |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 20,275 | Python | 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-ana... |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,122 | Shell | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖... |
+| [larksuite/cli](https://github.com/larksuite/cli) | 16,861 | Go | The official Lark/飞书 CLI tool, maintained by the larksuite team — built for h... |
+| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,477 | C# | - |
+| [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) | 5,816 | HTML | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonom... |
+| [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,888 | Python | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |
+| [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 4,436 | - | 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  |
+| [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) | 3,924 | Python | Serenity-inspired Agent Skill for supply-chain bottleneck stock research |
+| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3,471 | Python | A personal knowledge base that builds and maintains itself. Drop in sources —... |
+| [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) | 2,856 | Shell | This guide is designed for OpenClaw itself (Agent-facing), not as a tradition... |
+| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,370 | - | AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 |
 | [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) | 980 | - | - |
-| [nashsu/autocli-skill](https://github.com/nashsu/autocli-skill) | 920 | - | The perfect companion for ClaudeCode/OpenClaw/Agent, Give your AI Agent the a... |
-| [labarba/sciwrite](https://github.com/labarba/sciwrite) | 813 | - | Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin S... |
+| [nashsu/autocli-skill](https://github.com/nashsu/autocli-skill) | 921 | - | The perfect companion for ClaudeCode/OpenClaw/Agent, Give your AI Agent the a... |
+| [labarba/sciwrite](https://github.com/labarba/sciwrite) | 814 | - | Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin S... |
 | [AlexAnys/opencrew](https://github.com/AlexAnys/opencrew) | 494 | Shell | Openclaw多智能体协同系统 | Multi-Agent OS for Decision Makers — 基于 OpenClaw (Clawbot)... |
 | [cafe3310/public-agent-skills](https://github.com/cafe3310/public-agent-skills) | 253 | JavaScript | personal agent skills for better QoL |
 | [ZreadAI/zread-skill](https://github.com/ZreadAI/zread-skill) | 167 | - | Zread Skill |
@@ -92,31 +92,31 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 177,008 | Python | Python tool for converting files and office documents to Markdown. |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 130,762 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 92,584 | - | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternat... |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 34,308 | Zig | Lightpanda: the headless browser designed for AI and automation |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 25,166 | HTML | AI-agent Skill for generating polished HTML slide decks: editorial magazine a... |
-| [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 10,571 | - | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill |
-| [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 8,548 | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it.... |
-| [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,121 | HTML | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for b... |
-| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,601 | Go | Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
-| [imraywang/wewrite](https://github.com/imraywang/wewrite) | 3,199 | Python | 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 177,174 | Python | Python tool for converting files and office documents to Markdown. |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 130,813 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 92,804 | - | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternat... |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 34,318 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 25,259 | HTML | AI-agent Skill for generating polished HTML slide decks: editorial magazine a... |
+| [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 10,649 | - | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill |
+| [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 8,567 | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it.... |
+| [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,131 | HTML | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for b... |
+| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,607 | Go | Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
+| [imraywang/wewrite](https://github.com/imraywang/wewrite) | 3,204 | Python | 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道 |
 | [hypooo/app-store-price](https://github.com/hypooo/app-store-price) | 817 | HTML | App Store 价格查询 - 查询应用在不同地区的价格和内购信息 |
-| [paywallpro/paywall-gallery](https://github.com/paywallpro/paywall-gallery) | 678 | - | Top iOS app subscription paywall and onboarding gallery with screenshots, vid... |
+| [paywallpro/paywall-gallery](https://github.com/paywallpro/paywall-gallery) | 683 | - | Top iOS app subscription paywall and onboarding gallery with screenshots, vid... |
 | [joeseesun/Qiaomu-QuickPrompt](https://github.com/joeseesun/Qiaomu-QuickPrompt) | 63 | JavaScript | Chrome side-panel prompt manager with shortcut expansion and built-in Chinese... |
 
 ## 📝 Obsidian & 笔记生态
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 47,499 | - | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open form... |
-| [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 3,552 | - | Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid dia... |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 47,536 | - | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open form... |
+| [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 3,554 | - | Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid dia... |
 | [helloxz/onenav](https://github.com/helloxz/onenav) | 3,129 | JavaScript | 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。 |
-| [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) | 2,897 | JavaScript | Can be privately deployed, focusing on providing Obsidian users with a seamle... |
+| [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) | 2,907 | JavaScript | Can be privately deployed, focusing on providing Obsidian users with a seamle... |
 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | 2,576 | Python | - |
-| [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) | 2,210 | Go | High-performance, low-latency note synchronization, online management, and re... |
-| [fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish) | 477 | JavaScript | 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 |
+| [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) | 2,238 | Go | High-performance, low-latency note synchronization, online management, and re... |
+| [fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish) | 499 | JavaScript | 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 |
 | [mnaoumov/obsidian-custom-attachment-location](https://github.com/mnaoumov/obsidian-custom-attachment-location) | 152 | TypeScript | Customize attachment location with variables($filename, $data, etc) like Typora. |
 | [Go1c/FastNodeSync-CLI](https://github.com/Go1c/FastNodeSync-CLI) | 34 | Python | CLI client for Fast Note Sync Service - sync Obsidian vaults from headless se... |
 
@@ -124,10 +124,10 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 101,686 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 72,446 | Python | Open Data Platform for analysts, quants and AI agents. |
-| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 11,197 | Python | AI quantitative trading platform for crypto, stocks, and forex with backtesti... |
-| [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) | 2,207 | Dart | Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebD... |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 101,856 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 72,500 | Python | Open Data Platform for analysts, quants and AI agents. |
+| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 11,237 | Python | AI quantitative trading platform for crypto, stocks, and forex with backtesti... |
+| [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) | 2,215 | Dart | Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebD... |
 | [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance) | 877 | Jupyter Notebook | LLMs in Finance - Generative AI - AI Agents  |
 | [TNT-Likely/BeeCount-Cloud](https://github.com/TNT-Likely/BeeCount-Cloud) | 123 | TypeScript | Self-hosted cloud for BeeCount — one Docker image runs the sync server + web ... |
 | [Robs87/family-cashflow-radar](https://github.com/Robs87/family-cashflow-radar) | 1 | Python | 家庭现金流雷达：BeeCount Cloud 流水记录层 + 本地家庭现金流分析和决策系统 |
@@ -136,11 +136,11 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 173,970 | TypeScript | The context API to search, scrape, and interact with the web at scale. 🔥 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 76,525 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
-| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 38,889 | TypeScript | 🧡 Folo is the AI RSS Reader |
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 19,179 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle... |
-| [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) | 6,422 | JavaScript | AI builders digest — monitors top AI builders on X and YouTube podcasts, remi... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 174,388 | TypeScript | The context API to search, scrape, and interact with the web at scale. 🔥 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 76,734 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
+| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 38,891 | TypeScript | 🧡 Folo is the AI RSS Reader |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 19,344 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle... |
+| [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) | 6,431 | JavaScript | AI builders digest — monitors top AI builders on X and YouTube podcasts, remi... |
 | [kevinho/clawfeed](https://github.com/kevinho/clawfeed) | 2,377 | HTML | ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS ... |
 | [Robs87/RSSAggregatorforWeb3](https://github.com/Robs87/RSSAggregatorforWeb3) | 1 | - | Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds. |
 
@@ -162,19 +162,19 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [immich-app/immich](https://github.com/immich-app/immich) | 112,926 | TypeScript | High performance self-hosted photo and video management solution. |
-| [tw93/Mole](https://github.com/tw93/Mole) | 65,254 | Shell | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source... |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | 29,502 | - | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
-| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 26,797 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| [fish2018/pansou](https://github.com/fish2018/pansou) | 14,388 | Go | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型... |
-| [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | 11,657 | Python | NAS媒体库自动化管理工具 |
-| [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | 9,229 | JavaScript | 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制... |
-| [gdy666/lucky](https://github.com/gdy666/lucky) | 8,092 | Go | 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webd... |
-| [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) | 6,649 | JavaScript | 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁 |
-| [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) | 5,002 | JavaScript | 小火箭配色与配置 |
-| [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) | 4,432 | - | Shadowrocket 使用手册 补完计划 |
-| [Cirn09/calibre-do-not-translate-my-path](https://github.com/Cirn09/calibre-do-not-translate-my-path) | 1,850 | Python | Switch my calibre library from ascii path to plain Unicode path. 将我的书库从拼音目录切换... |
-| [iab0x00/ProxyRules](https://github.com/iab0x00/ProxyRules) | 741 | - | - |
+| [immich-app/immich](https://github.com/immich-app/immich) | 113,001 | TypeScript | High performance self-hosted photo and video management solution. |
+| [tw93/Mole](https://github.com/tw93/Mole) | 65,380 | Shell | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source... |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | 29,534 | - | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
+| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 26,808 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [fish2018/pansou](https://github.com/fish2018/pansou) | 14,398 | Go | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型... |
+| [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | 11,662 | Python | NAS媒体库自动化管理工具 |
+| [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | 9,228 | JavaScript | 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制... |
+| [gdy666/lucky](https://github.com/gdy666/lucky) | 8,095 | Go | 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webd... |
+| [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) | 6,653 | JavaScript | 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁 |
+| [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) | 5,010 | JavaScript | 小火箭配色与配置 |
+| [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) | 4,434 | - | Shadowrocket 使用手册 补完计划 |
+| [Cirn09/calibre-do-not-translate-my-path](https://github.com/Cirn09/calibre-do-not-translate-my-path) | 1,849 | Python | Switch my calibre library from ascii path to plain Unicode path. 将我的书库从拼音目录切换... |
+| [iab0x00/ProxyRules](https://github.com/iab0x00/ProxyRules) | 744 | - | - |
 | [BruceLanLan/ghostty-config](https://github.com/BruceLanLan/ghostty-config) | 447 | Makefile | 我的Ghostty终极配置 - Claude最佳伴侣（零报错版） |
 | [XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme) | 116 | CSS | 专治强迫症 |
 
@@ -182,33 +182,33 @@
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 81,032 | Roff | 所有小初高、大学PDF教材。 |
-| [byoungd/up](https://github.com/byoungd/up) | 61,957 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的... |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 81,096 | Roff | 所有小初高、大学PDF教材。 |
+| [byoungd/up](https://github.com/byoungd/up) | 61,999 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的... |
 | [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,039 | - | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript |
 | [andysingal/llm-course](https://github.com/andysingal/llm-course) | 884 | Jupyter Notebook | - |
-| [csfive/CS50x](https://github.com/csfive/CS50x) | 596 | HTML | 🦍 Harvard CS50x Solutions |
+| [csfive/CS50x](https://github.com/csfive/CS50x) | 597 | HTML | 🦍 Harvard CS50x Solutions |
 
 ## 📦 未分类
 
 | Repo | ⭐ | 语言 | 说明 |
 |---|---|---|---|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 240,878 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 114,938 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 87,881 | TypeScript | The open-source CapCut alternative |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 36,029 | Swift | bluetooth mesh chat, IRC vibes |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 21,086 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-g... |
-| [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 16,904 | Python | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满... |
-| [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | 13,230 | Shell | Run sing-box/mihomo as client in shell |
-| [liketrek/TREK](https://github.com/liketrek/TREK) | 12,960 | TypeScript | A self-hosted travel/trip planner with real-time collaboration, interactive m... |
-| [oblien/openship](https://github.com/oblien/openship) | 11,785 | TypeScript | Self-hosted deployment platform |
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8,928 | Elixir | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] |
-| [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill) | 6,641 | Python | 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 1... |
-| [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) | 2,286 | Go | Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 sup... |
-| [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) | 1,960 | C# | A free, open-source Windows desktop organizer with native-feeling WinUI 3 wid... |
-| [daimon3332/address](https://github.com/daimon3332/address) | 1,543 | TypeScript | A self-hosted address and synthetic test-profile generator for 27 countries a... |
-| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | 931 | Swift | Native GUI for Homebrew Casks |
-| [wttwins/wrong-notebook](https://github.com/wttwins/wrong-notebook) | 687 | TypeScript | 一个基于AI的学生错题本 |
-| [yding-git/personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy) | 678 | - | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hys... |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 241,703 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 114,997 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 87,990 | TypeScript | The open-source CapCut alternative |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 36,053 | Swift | bluetooth mesh chat, IRC vibes |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 21,117 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-g... |
+| [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 16,950 | Python | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满... |
+| [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | 13,233 | Shell | Run sing-box/mihomo as client in shell |
+| [liketrek/TREK](https://github.com/liketrek/TREK) | 12,993 | TypeScript | A self-hosted travel/trip planner with real-time collaboration, interactive m... |
+| [oblien/openship](https://github.com/oblien/openship) | 11,806 | TypeScript | Self-hosted deployment platform |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8,931 | Elixir | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] |
+| [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill) | 6,656 | Python | 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 1... |
+| [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) | 2,293 | Go | Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 sup... |
+| [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) | 2,226 | C# | A free, open-source Windows desktop organizer with native-feeling WinUI 3 wid... |
+| [daimon3332/address](https://github.com/daimon3332/address) | 1,890 | TypeScript | A self-hosted address and synthetic test-profile generator for 27 countries a... |
+| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | 937 | Swift | Native GUI for Homebrew Casks |
+| [yding-git/personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy) | 696 | - | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hys... |
+| [wttwins/wrong-notebook](https://github.com/wttwins/wrong-notebook) | 689 | TypeScript | 一个基于AI的学生错题本 |
 | [666shen/tcp-dashboard](https://github.com/666shen/tcp-dashboard) | 241 | Shell | VPS的TCP深度调优面板 |
 | [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) | 125 | HTML | Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bent... |
 | [Bern3rsH/FenyiDic](https://github.com/Bern3rsH/FenyiDic) | 52 | TypeScript | Sense-level dictionary desktop app |
